@@ -1,0 +1,32 @@
+{
+   "background_color": "#ffffff",
+   "description": "React PWA Sample.",
+   "display": "standalone",
+   "icons": [{
+         "src": "icon.png",
+         "sizes": "128x128",
+         "type": "image/png"
+      },
+	{
+	 "src": "icon2.png",
+         "sizes": "144x144",
+         "type": "image/png"
+	},
+	{
+	 "src": "icon3.png",
+         "sizes": "192x192",
+         "type": "image/png"
+	},
+	{
+	 "src": "icon4.png",
+         "sizes": "512x512",
+         "type": "image/png"
+	}
+   ],
+   "name": "React PWA Sample",
+   "orientation": "portrait",
+   "short_name": "React PWA",
+   "start_url": "index.html",
+   "theme_color": "#ffffff",
+   "scope": "/"
+}
